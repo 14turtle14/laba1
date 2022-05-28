@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.21)
-project(laba_1)
+project(laba5)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(laba_1 main.cpp realize.cpp realize.h)
+add_executable(laba5 main.cpp Array.h Swap.h)
